@@ -36,3 +36,14 @@ module.exports = Usuario
     "codigop":"",
     "edad":"",
 }*/
+
+/*
+{   "fechan":"1998/07/21",
+    "numeroid":1107061799,
+    "contraseña":"D.avid12345",
+    "genero":"hombre",
+    "pais":"colombia",
+    "domicilio":"micasa a la vuelta",
+    "codigop":"1234567"
+}
+*/ 
